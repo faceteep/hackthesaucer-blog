@@ -945,3 +945,14 @@ input[type="checkbox"]:checked + .symptom {
 .high-certainty{
     color: #c43530
 }
+
+img.logo {
+    width: 120px;
+    margin: auto;
+    display: block;
+}
+
+#countdown {
+    text-align: center;
+    font-size: 25px;
+}
